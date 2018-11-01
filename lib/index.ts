@@ -1,3 +1,2 @@
-import UUID from "./UUID";
-export * from "./UUID";
+export type UUID = string;
 export default UUID;
