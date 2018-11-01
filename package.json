@@ -5,7 +5,7 @@
     "url": "https://github.com/hsk81"
   },
   "dependencies": {},
-  "description": "type definitions for UUID",
+  "description": "UUID type definitions",
   "devDependencies": {
     "@types/chai": "^4.1.7",
     "@types/mocha": "^5.2.5",
